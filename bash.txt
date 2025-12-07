@@ -1,0 +1,17 @@
+cln-structuring/
+├─ README.md
+├─ requirements.txt
+├─ data/
+│  └─ sample_basket.csv
+├─ src/
+│  ├─ __init__.py
+│  ├─ params.py            # default parameters
+│  ├─ utils.py             # helper functions (pv, discount, correlations)
+│  ├─ simulator.py         # Monte Carlo correlated default engine
+│  ├─ pricer.py            # pricing + fair coupon calibration
+│  ├─ reporter.py          # export to excel / charts
+│  └─ app_streamlit.py     # optional interactive UI
+├─ notebooks/
+│  └─ demo.ipynb           # optional notebook (describe usage)
+└─ outputs/
+   └─ example_report.xlsx
