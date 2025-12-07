@@ -46,10 +46,6 @@ cln-structuring/
 
 ⚙️ Installation
 
-# Clone the repo
-git clone https://github.com/<your-username>/cln-structuring.git
-cd cln-structuring
-
 # Install dependencies
 pip install -r requirements.txt
 
