@@ -15,11 +15,6 @@ Excel / Streamlit automation
 
 The goal is to replicate the workflow of a Fixed Income Structuring Analyst: combining quantitative modeling, product design, and automation to evaluate yield–risk trade-offs.
 
-🧠 Motivation
-
-Traditional fixed-income valuation assumes deterministic cash flows.
-Structured products introduce path-dependent risk: coupons stop after defaults, recoveries apply, and correlation matters.
-
 This simulator allows you to:
 
 Quantify expected loss and fair coupon levels
